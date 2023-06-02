@@ -1,4 +1,3 @@
 Hi this is a file.
 This file name is alice.txt.
 It is a .txt file for github practice!
-Added another line to alice.txt.
